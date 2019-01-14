@@ -1,4 +1,16 @@
 ---
 ---
 
+.menu{
+	li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+}
 @import "jekyll-theme-slate";
+

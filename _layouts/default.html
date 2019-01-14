@@ -22,13 +22,7 @@
           <h1 id="project_title">{{ site.title | default: default}}</h1>
           <h2 id="project_tagline">{{ 'My repository for projects and blogs' | default: Personal website to show projects and personal blog }}</h2>
 
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
-
+          
           <nav>
             <ul>
                 <li><a href="/">Home</a></li>
