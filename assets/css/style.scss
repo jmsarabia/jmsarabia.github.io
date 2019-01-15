@@ -11,9 +11,12 @@ ul.menu {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-
+  position: relative;
+  right: 5px;
+  
 	li {
-	  float: left;
+	  float: right;
+
 	}
 
 	
@@ -21,7 +24,7 @@ ul.menu {
 	  display: block;
 	  color: white;
 	  text-align: center;
-	  padding: 1px 10px 5px 2px;
+	  padding: 5px 10px 5px 10px;
 	  text-decoration: none;
 	}
 
