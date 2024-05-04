@@ -8,7 +8,7 @@ Acting as a consulting firm, this team project scrapes, cleans, and analyzes pub
 <img src="images/dashboard_screenshot.jpg?raw=true"/>
 
 ---
-<!-->
+<!--
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
@@ -16,13 +16,13 @@ Acting as a consulting firm, this team project scrapes, cleans, and analyzes pub
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
-
----
-
-
-
 -->
+
 <!-->
+<!--
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+<!--
+
+-->
