@@ -4,9 +4,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Data analyst with Natural Language Processing, machine learning, and client-serving experience
   
   <a href="https://www.linkedin.com/jared-sarabia/">View My LinkedIn Profile</a> 
-  </br></br>
+  </br>
+  <br>
   <a href="https://www.github.com/jmsarabia/">View My GitHub Profile</a> 
-  
+  </br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
