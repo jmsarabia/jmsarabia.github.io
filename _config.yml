@@ -2,9 +2,9 @@ title: Jared Sarabia # your name (or website title) here
 logo: "/images/profile_picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data analyst with Natural Language Processing, machine learning, and client-serving experience
-  <br><br>
+  
   <a href="https://www.linkedin.com/jared-sarabia/">View My LinkedIn Profile</a> 
-  <br><br>
+  </br></br>
   <a href="https://www.github.com/jmsarabia/">View My GitHub Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
