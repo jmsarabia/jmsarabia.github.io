@@ -1,3 +1,4 @@
 ## README
 
-Personal Website to display projects and interests
+Personal website to display projects, interests, and posts. 
+
