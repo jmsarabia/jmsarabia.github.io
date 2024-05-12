@@ -16,13 +16,13 @@ Acting as a consulting firm, this team project scrapes, cleans, and analyzes pub
 
 ---
 
-[Identifying Highly Relevant Skills for Data Science Positions Captured 2023 through Topic Modeling with LDA, Top2Vec, and BERTopic](/pdf/Sarabia_Job_Description_Report.pdf) - 
+[Identifying Recent Skillsets Required for Data Science Positions from Scraped Job Postings with LDA, Top2Vec, and BERTopic](/pdf/Sarabia_Job_Description_Report.pdf) - 
 <a href="https://github.com/jmsarabia/topic-modeling-skillsets">(Github)</a>
 <br>
-I identify the skills related to certain data scinece positions - such as data analyst, data engineer, and data scientist - through natural language processing (NLP) techniques that model topics within a set of documents, in this case job postings. The effectiveness of each technique is evaluated based on the coherence, or "likeness", of job postings grouped into the extracted topics. Furthermore, each technique is rated on various performance metrics. Data was obtained through scraped job posting descriptions hosted on Kaggle. 
+I identify the skills and technologies related to various data scinece positions - such as data analyst, data engineer, and data scientist - through recent natural language processing (NLP) techniques that model topics within a set of documents, in this case job postings. The effectiveness of each technique is evaluated based on the coherence, or "likeness", of job postings grouped into the extracted topics. Furthermore, each technique is rated on various performance metrics such as required dataset size, semantic embedding usage, and necessary computational resources.
 <br>
  
-<img src="images/nlp_intertopic_distance.png?raw=true"/>
+<img src="images/LD_entry_level_da_terms.png?raw=true"/>
 <br>
 
 ---
